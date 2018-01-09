@@ -1,0 +1,10 @@
+Xcoordinate,Ycoordinate,northWall,southWall,eastWall,westWall,Object
+0,0,no,wall,wall,wall,S
+0,1,no,wall,no,wall,no
+0,2,wall,wall,wall,no,E
+1,0,no,no,wall,wall,no
+1,1,wall,no,no,wall,no
+1,2,no,wall,wall,no,no
+2,0,wall,no,no,wall,no
+2,1,wall,wall,no,no,no
+2,2,wall,no,wall,no,no
